@@ -100,3 +100,4 @@ git merge feat/add-drop-table-reference
 __vsc_prompt_cmd_original
 git branch -d feat/add-drop-table-reference
 __vsc_prompt_cmd_original
+git checkout -b feat/add-column-references
