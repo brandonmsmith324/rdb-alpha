@@ -114,3 +114,4 @@ git commit -m "fix: create table syntax"
 git checkout main
 git branch
 git merge fix/create-table-syntax
+git log --oneline
