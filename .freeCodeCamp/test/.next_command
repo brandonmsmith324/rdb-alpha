@@ -231,3 +231,4 @@ git log --oneline
 git rebase --interactive HEAD~5
 git log --oneline
 git log -1
+git checkout main
