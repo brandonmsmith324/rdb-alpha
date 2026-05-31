@@ -51,3 +51,4 @@ __vsc_prompt_cmd_original
 echo "SQL REFERENCE" > README.md
 echo "SQL Reference" > README.md
 git status
+git add README.md
