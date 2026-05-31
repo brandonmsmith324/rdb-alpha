@@ -61,3 +61,4 @@ git commit -m "Initial commit"
 git status
 git log
 git status
+git diff
