@@ -127,3 +127,6 @@ git commit -m "feat: add drop column reference"
 git log --oneline
 git checkout main
 git checkout -b feat/add-insert-row-reference
+git status
+git diff
+git add sql_reference.json
