@@ -243,3 +243,4 @@ git add sql_reference.json
 git commit -m "fix: add missing rename table reference"
 git log --oneline -5
 git rebase --interactive HEAD~2
+git log -1
