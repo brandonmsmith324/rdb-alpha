@@ -256,3 +256,4 @@ git status
 touch .gitignore
 git status
 git status
+git add .gitignore
