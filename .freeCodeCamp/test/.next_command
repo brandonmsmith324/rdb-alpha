@@ -125,3 +125,4 @@ git diff
 git add sql_reference.json
 git commit -m "feat: add drop column reference"
 git log --oneline
+git checkout main
