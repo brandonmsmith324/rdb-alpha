@@ -178,3 +178,4 @@ git add sql_reference.json
 git commit -m "feat: add update row reference"
 git checkout main
 git merge feat/add-more-row-references
+git checkout feat/add-column-references
