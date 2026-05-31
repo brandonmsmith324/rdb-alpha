@@ -120,3 +120,6 @@ git checkout feat/add-column-references
 git log --oneline
 git rebase main
 git log --oneline
+git status
+git diff
+git add sql_reference.json
