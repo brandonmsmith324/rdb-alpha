@@ -119,3 +119,4 @@ git branch -d fix/create-table-syntax
 git checkout feat/add-column-references
 git log --oneline
 git rebase main
+git log --oneline
